@@ -1,0 +1,5 @@
+D:\Programme Workspace\GitHub\zischify\platforms\android\app\src\main\assets\app\0.js
+D:\Programme Workspace\GitHub\zischify\platforms\android\app\src\main\assets\app\bundle.js
+D:\Programme Workspace\GitHub\zischify\platforms\android\app\src\main\assets\app\runtime.js
+D:\Programme Workspace\GitHub\zischify\platforms\android\app\src\main\assets\app\tns-java-classes.js
+D:\Programme Workspace\GitHub\zischify\platforms\android\app\src\main\assets\app\vendor.js
